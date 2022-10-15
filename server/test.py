@@ -1,7 +1,7 @@
 import sys;
 
 def add(a,b):
-    return a + b +4
+    return a + b
 
 if __name__ == "__main__":
     a = int(sys.argv[1])
